@@ -10,7 +10,7 @@ This is a Library Management System project. Java is used as programming languag
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 - 📚 Manage Authors and Books
 - 🖥️ Graphical User Interface (likely built with Swing)
@@ -20,9 +20,9 @@ This is a Library Management System project. Java is used as programming languag
 
 ---
 
-## 📁 Project Structure
+ 📁 Project Structure
 
-```
+---
 
 SLibrary/
 ├── build/              # Compiled class files
@@ -34,11 +34,11 @@ SLibrary/
 ├── build.xml           # Apache Ant build script
 └── manifest.mf         # Manifest file for JAR packaging
 
-````
+---
 
 ---
 
-## ✅ Requirements
+ ✅ Requirements
 
 - Java Development Kit (JDK) 8 or above
 - NetBeans IDE (recommended for development)
@@ -46,14 +46,14 @@ SLibrary/
 
 ---
 
-## 🛠️ Installation & Setup
+ 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/SLibrary.git
 cd SLibrary
-````
+---
 
 ### 2. Open in NetBeans
 
@@ -73,7 +73,7 @@ cd SLibrary
 ant clean
 ant build
 ant run
-```
+---
 
 ---
 
